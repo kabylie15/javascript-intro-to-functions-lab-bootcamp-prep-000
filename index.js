@@ -30,15 +30,3 @@ function sayHiToGrandma(string) {
   return "Are you eating enough?"
 }
 
-function sayHiToGrandma(string) {
-  return string.toLowerCase()
-}
-
-function sayHiToGrandma(string) {
-  return string.toUpperCase()
-}
-
-function sayHiToGrandma(string) {
-  return string.toMixedCase()
-}
-
